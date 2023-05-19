@@ -1,0 +1,14 @@
+site_name: Documentação para GSI
+site_author: Girafa
+
+theme:
+  name: material
+  language: pt
+
+nav: 
+  - index.md
+  - diagramas.md
+
+plugins:
+  - search
+  - mermaid2
